@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b9096aa-5590-4cb1-b280-f62ea2a7ef0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../content-center/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/github/share/contentcenter/controller/content/ShareController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/github/share/contentcenter/domain/dto/content/ShareDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch1/hello/hello_world.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch1/main/hello_world.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hcsp/read-write-files-demo/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hcsp/read-write-files-demo/src/main/java/com/github/readwritefilesdemo/FileAccessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hcsp/read-write-files-demo/src/test/java/com/github/readwritefilesdemo/FileAccessorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../imooc-news-dev/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python project/test1/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python project/test1/network_bandwidth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save-pull-requests-to-csv/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save-pull-requests-to-csv/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save-pull-requests-to-csv/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save-pull-requests-to-csv/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save-pull-requests-to-csv/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save-pull-requests-to-csv/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save-pull-requests-to-csv/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save-pull-requests-to-csv/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save-pull-requests-to-csv/src/main/java/com/github/savepullrequeststocsv/Crawler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save-pull-requests-to-csv/src/main/java/com/github/savepullrequeststocsv/Crawler2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save-pull-requests-to-csv/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save-pull-requests-to-csv/src/test/java/com/github/savepullrequeststocsv/CrawlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../save-pull-requests-to-csv/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blocking-queue-demo/src/main/java/com/github/blockingqueuedemo/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blocking-queue-demo/src/main/java/com/github/blockingqueuedemo/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blocking-queue-demo/src/main/java/com/github/blockingqueuedemo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blocking-queue-demo/src/main/java/com/github/blockingqueuedemo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blocking-queue-demo/src/main/java/com/github/blockingqueuedemo/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../blocking-queue-demo/src/main/java/com/github/blockingqueuedemo/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/github/share/contentcenter/ContentCenterApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/github/share/contentcenter/ContentCenterApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/github/share/contentcenter/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/github/share/contentcenter/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/java/com/github/share/contentcenter/domain/entity/content/Share.java" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/java/com/github/share/contentcenter/domain/entity/content/Share.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../content-center/src/main/resources/generator/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../content-center/src/main/resources/generator/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-project/hello/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-project/hello/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go-project/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-kafka-demo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-kafka-demo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-kafka-demo/src/main/java/com/github/springkafkademo/KafkaConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-kafka-demo/src/main/java/com/github/springkafkademo/KafkaConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-kafka-demo/src/main/java/com/github/springkafkademo/KafkaProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-kafka-demo/src/main/java/com/github/springkafkademo/KafkaProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-kafka-demo/src/main/java/com/github/springkafkademo/SpringKafkaDemoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-kafka-demo/src/main/java/com/github/springkafkademo/SpringKafkaDemoApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-quartz/src/test/java/com/github/springquartz/QuartzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-quartz/src/test/java/com/github/springquartz/QuartzTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-demo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-security-demo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-demo/src/main/java/com/github/springsecuritydemo/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-security-demo/src/main/java/com/github/springsecuritydemo/controller/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-demo/src/main/java/com/github/springsecuritydemo/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-security-demo/src/main/java/com/github/springsecuritydemo/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-demo/src/main/java/com/github/springsecuritydemo/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-security-demo/src/main/java/com/github/springsecuritydemo/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-demo/src/main/resources/db/migration/V2__Init_Data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-security-demo/src/main/resources/db/migration/V2__Init_Data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-demo/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-security-demo/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-security-demo/src/main/resources/templates/site/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-security-demo/src/main/resources/templates/site/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/main/java/com/github/springbootelasticsearchdemo/dao/DiscussPostDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/main/java/com/github/springbootelasticsearchdemo/dao/DiscussPostDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/main/java/com/github/springbootelasticsearchdemo/dao/DiscussPost_ES_Repository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/main/java/com/github/springbootelasticsearchdemo/dao/DiscussPost_ES_Repository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/main/java/com/github/springbootelasticsearchdemo/entity/DiscussPost.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/main/java/com/github/springbootelasticsearchdemo/entity/DiscussPost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/main/resources/db/migration/V1__Init_Schema.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/main/resources/db/migration/V1__Init_Schema.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/main/resources/db/migration/V2__Init_Data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/main/resources/db/migration/V2__Init_Data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/main/resources/mapper/DiscussPost-mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/main/resources/mapper/DiscussPost-mapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/test/java/com/github/springbootelasticsearchdemo/ESTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-elasticsearch-demo/src/test/java/com/github/springbootelasticsearchdemo/ESTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center/src/main/java/com/github/share/usercenter/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../user-center/src/main/java/com/github/share/usercenter/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center/src/main/resources/db/migration/V1__Init_Tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../user-center/src/main/resources/db/migration/V1__Init_Tables.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center/src/main/resources/generator/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../user-center/src/main/resources/generator/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user-center/src/main/resources/generator/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../user-center/src/main/resources/generator/generatorConfig.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1wrSjuuAfTlqWBRY2BwudhYKbwA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ch1/hello" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ch1/hello" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build hello_world.go (1)">
+    <configuration name="go build hello_world.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-learning" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/ch1/hello/hello_world.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build hello_world.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go-learning" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/ch1/main/hello_world.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build hello_world.go (1)" />
+        <item itemvalue="Go Build.go build hello_world.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b9096aa-5590-4cb1-b280-f62ea2a7ef0c" name="Default Changelist" comment="" />
+      <created>1629215352638</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629215352638</updated>
+      <workItem from="1629215354142" duration="2205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-862" y="121" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1629215765894">
+      <screen x="-1877" y="-229" width="1877" height="1057" />
+    </state>
+    <state x="-862" y="121" key="#com.intellij.fileTypes.FileTypeChooser/-1877.-229.1877.1057/0.23.1440.877@-1877.-229.1877.1057" timestamp="1629215765894" />
+    <state width="1835" height="231" key="GridCell.Tab.0.bottom" timestamp="1629217701022">
+      <screen x="-1877" y="-229" width="1877" height="1057" />
+    </state>
+    <state width="1835" height="231" key="GridCell.Tab.0.bottom/-1877.-229.1877.1057/0.23.1440.877@-1877.-229.1877.1057" timestamp="1629217701022" />
+    <state width="1835" height="231" key="GridCell.Tab.0.center" timestamp="1629217701020">
+      <screen x="-1877" y="-229" width="1877" height="1057" />
+    </state>
+    <state width="1835" height="231" key="GridCell.Tab.0.center/-1877.-229.1877.1057/0.23.1440.877@-1877.-229.1877.1057" timestamp="1629217701020" />
+    <state width="1835" height="231" key="GridCell.Tab.0.left" timestamp="1629217701020">
+      <screen x="-1877" y="-229" width="1877" height="1057" />
+    </state>
+    <state width="1835" height="231" key="GridCell.Tab.0.left/-1877.-229.1877.1057/0.23.1440.877@-1877.-229.1877.1057" timestamp="1629217701020" />
+    <state width="1835" height="231" key="GridCell.Tab.0.right" timestamp="1629217701021">
+      <screen x="-1877" y="-229" width="1877" height="1057" />
+    </state>
+    <state width="1835" height="231" key="GridCell.Tab.0.right/-1877.-229.1877.1057/0.23.1440.877@-1877.-229.1877.1057" timestamp="1629217701021" />
+    <state x="-1572" y="78" key="SettingsEditor" timestamp="1629215622098">
+      <screen x="-1877" y="-229" width="1877" height="1057" />
+    </state>
+    <state x="-1572" y="78" key="SettingsEditor/-1877.-229.1877.1057/0.23.1440.877@-1877.-229.1877.1057" timestamp="1629215622098" />
+  </component>
+</project>
