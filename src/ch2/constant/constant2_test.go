@@ -13,5 +13,5 @@ func TestConstant2(t *testing.T) {
 	a := 3 // 0011
 	t.Log("Readable", a&Readable == Readable)
 	t.Log("Writable", a&Writable == Writable)
-	t.Log("Executable", a&Executable == Writable)
+	t.Log("Executable", a&Executable == Executable)
 }
